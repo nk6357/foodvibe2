@@ -25,6 +25,13 @@ describe("assetPath", () => {
     );
   });
 
+  it("preserves external URLs", () => {
+    vi.stubEnv("BASE_URL", "/repo/");
+    expect(assetPath("https://pokeramen.ru/privacy/")).toBe(
+      "https://pokeramen.ru/privacy/",
+    );
+  });
+
   it("builds dish image path by id", () => {
     vi.stubEnv("BASE_URL", "/");
     expect(dishImagePath(1001)).toBe("/restaurant/assets/dishes/1001.webp");

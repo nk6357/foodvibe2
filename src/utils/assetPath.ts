@@ -1,4 +1,8 @@
 export function assetPath(relativePath: string): string {
+  if (/^https?:\/\//i.test(relativePath)) {
+    return relativePath;
+  }
+
   const base = import.meta.env.BASE_URL.endsWith("/")
     ? import.meta.env.BASE_URL
     : `${import.meta.env.BASE_URL}/`;

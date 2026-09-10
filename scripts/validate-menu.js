@@ -329,7 +329,11 @@ function main() {
 
   if (menu.legal.enabled) {
     for (const doc of [menu.legal.offerDocument, menu.legal.privacyDocument]) {
-      if (doc && !fs.existsSync(resolvePublicPath(doc))) {
+      if (
+        doc &&
+        !/^https:\/\//i.test(doc) &&
+        !fs.existsSync(resolvePublicPath(doc))
+      ) {
         fail(`Missing legal document: public/${doc}`);
       }
     }
