@@ -26,16 +26,8 @@
     ]
   },
   "theme": {
-    "accent": [
-      22,
-      245,
-      115
-    ],
-    "background": [
-      182,
-      147,
-      189
-    ],
+    "accent": [22, 245, 115],
+    "background": [182, 147, 189],
     "cardStyle": "rounded",
     "imageStyle": "cover",
     "density": "comfortable"
@@ -76,10 +68,7 @@
           "name": "Лакса рамен с креветками",
           "price": 790,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА",
-            "морепродукты"
-          ],
+          "labels": ["НОВИНКА", "морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -92,10 +81,7 @@
           "name": "Половинка лакса рамена с креветками",
           "price": 490,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА",
-            "морепродукты"
-          ],
+          "labels": ["НОВИНКА", "морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -108,10 +94,7 @@
           "name": "Лаймовая лапша с креветками",
           "price": 690,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА",
-            "морепродукты"
-          ],
+          "labels": ["НОВИНКА", "морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -124,11 +107,7 @@
           "name": "Кочудян рис с курицей карааге",
           "price": 490,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА",
-            "острое",
-            "курица"
-          ],
+          "labels": ["НОВИНКА", "острое", "курица"],
           "allergens": [],
           "spiceLevel": 1,
           "available": true,
@@ -141,11 +120,7 @@
           "name": "Пара rich онигири",
           "price": 660,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА",
-            "рыба",
-            "морепродукты"
-          ],
+          "labels": ["НОВИНКА", "рыба", "морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -164,9 +139,7 @@
           "name": "Сметанник с сезонными ягодами",
           "price": 630,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА"
-          ],
+          "labels": ["НОВИНКА"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -179,10 +152,7 @@
           "name": "Намазка из утки",
           "price": 560,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА",
-            "утка"
-          ],
+          "labels": ["НОВИНКА", "утка"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -195,9 +165,7 @@
           "name": "Сырные палочки",
           "price": 520,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА"
-          ],
+          "labels": ["НОВИНКА"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -210,10 +178,7 @@
           "name": "Роллы с опалённым беконом",
           "price": 510,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА",
-            "свинина"
-          ],
+          "labels": ["НОВИНКА", "свинина"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -226,10 +191,7 @@
           "name": "Роллы с курицей карааге, манго и арахисом",
           "price": 550,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА",
-            "курица"
-          ],
+          "labels": ["НОВИНКА", "курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -242,10 +204,7 @@
           "name": "Бонито ролл с лососем терияки",
           "price": 690,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА",
-            "рыба"
-          ],
+          "labels": ["НОВИНКА", "рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -258,11 +217,7 @@
           "name": "Роллы с угрём и уткой",
           "price": 900,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА",
-            "рыба",
-            "утка"
-          ],
+          "labels": ["НОВИНКА", "рыба", "утка"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -275,10 +230,7 @@
           "name": "Грибной рамен с говядиной",
           "price": 650,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА",
-            "говядина"
-          ],
+          "labels": ["НОВИНКА", "говядина"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -291,10 +243,7 @@
           "name": "Половинка грибного рамена с говядиной",
           "price": 360,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА",
-            "говядина"
-          ],
+          "labels": ["НОВИНКА", "говядина"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -313,10 +262,7 @@
           "name": "Том ям с курицей ЛАНЧ",
           "price": 490,
           "oldPrice": null,
-          "labels": [
-            "ЛАНЧ",
-            "курица"
-          ],
+          "labels": ["ЛАНЧ", "курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -329,10 +275,7 @@
           "name": "Сырный рамен со свиным рулетом ЛАНЧ",
           "price": 490,
           "oldPrice": null,
-          "labels": [
-            "ЛАНЧ",
-            "свинина"
-          ],
+          "labels": ["ЛАНЧ", "свинина"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -345,10 +288,7 @@
           "name": "Фо га с курицей ЛАНЧ",
           "price": 360,
           "oldPrice": null,
-          "labels": [
-            "ЛАНЧ",
-            "курица"
-          ],
+          "labels": ["ЛАНЧ", "курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -361,10 +301,7 @@
           "name": "Поке с креветками ЛАНЧ",
           "price": 390,
           "oldPrice": null,
-          "labels": [
-            "ЛАНЧ",
-            "морепродукты"
-          ],
+          "labels": ["ЛАНЧ", "морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -377,10 +314,7 @@
           "name": "Поке с курицей ЛАНЧ",
           "price": 300,
           "oldPrice": null,
-          "labels": [
-            "ЛАНЧ",
-            "курица"
-          ],
+          "labels": ["ЛАНЧ", "курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -393,10 +327,7 @@
           "name": "Баклажаны с томатами ЛАНЧ",
           "price": 230,
           "oldPrice": null,
-          "labels": [
-            "ЛАНЧ",
-            "вегетарианское"
-          ],
+          "labels": ["ЛАНЧ", "вегетарианское"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -409,11 +340,7 @@
           "name": "Том ям лапша с морепродуктами ЛАНЧ",
           "price": 420,
           "oldPrice": null,
-          "labels": [
-            "ЛАНЧ",
-            "рыба",
-            "морепродукты"
-          ],
+          "labels": ["ЛАНЧ", "рыба", "морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -426,10 +353,7 @@
           "name": "Мисо лапша с мясом ЛАНЧ",
           "price": 320,
           "oldPrice": null,
-          "labels": [
-            "ЛАНЧ",
-            "свинина"
-          ],
+          "labels": ["ЛАНЧ", "свинина"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -442,10 +366,7 @@
           "name": "Кимчи рис с беконом ЛАНЧ",
           "price": 280,
           "oldPrice": null,
-          "labels": [
-            "ЛАНЧ",
-            "свинина"
-          ],
+          "labels": ["ЛАНЧ", "свинина"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -458,10 +379,7 @@
           "name": "Чесночный рис с курицей ЛАНЧ",
           "price": 250,
           "oldPrice": null,
-          "labels": [
-            "ЛАНЧ",
-            "курица"
-          ],
+          "labels": ["ЛАНЧ", "курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -474,10 +392,7 @@
           "name": "Онигири с тунцом ЛАНЧ",
           "price": 300,
           "oldPrice": null,
-          "labels": [
-            "ЛАНЧ",
-            "рыба"
-          ],
+          "labels": ["ЛАНЧ", "рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -490,10 +405,7 @@
           "name": "Онигири с курицей и сыром ЛАНЧ",
           "price": 280,
           "oldPrice": null,
-          "labels": [
-            "ЛАНЧ",
-            "курица"
-          ],
+          "labels": ["ЛАНЧ", "курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -506,11 +418,7 @@
           "name": "Вонтоны с мясом ЛАНЧ",
           "price": 280,
           "oldPrice": null,
-          "labels": [
-            "ЛАНЧ",
-            "говядина",
-            "свинина"
-          ],
+          "labels": ["ЛАНЧ", "говядина", "свинина"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -523,9 +431,7 @@
           "name": "Моти с бананом ЛАНЧ",
           "price": 120,
           "oldPrice": null,
-          "labels": [
-            "ЛАНЧ"
-          ],
+          "labels": ["ЛАНЧ"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -538,9 +444,7 @@
           "name": "Моти с шоколадом ЛАНЧ",
           "price": 120,
           "oldPrice": null,
-          "labels": [
-            "ЛАНЧ"
-          ],
+          "labels": ["ЛАНЧ"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -559,10 +463,7 @@
           "name": "Сет МНОГО ЛОСОСЯ и 2 моти в подарок",
           "price": 3600,
           "oldPrice": null,
-          "labels": [
-            "НАРОДНОЕ",
-            "рыба"
-          ],
+          "labels": ["НАРОДНОЕ", "рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -575,10 +476,7 @@
           "name": "Сет МНОГО ТУНЦА и 2 моти в подарок",
           "price": 3000,
           "oldPrice": null,
-          "labels": [
-            "НАРОДНОЕ",
-            "рыба"
-          ],
+          "labels": ["НАРОДНОЕ", "рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -591,10 +489,7 @@
           "name": "Сет МНОГО УГРЯ и 2 моти в подарок",
           "price": 3300,
           "oldPrice": null,
-          "labels": [
-            "НАРОДНОЕ",
-            "рыба"
-          ],
+          "labels": ["НАРОДНОЕ", "рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -607,10 +502,7 @@
           "name": "Сет МНОГО КРЕВЕТОК и 2 моти в подарок",
           "price": 2800,
           "oldPrice": null,
-          "labels": [
-            "НАРОДНОЕ",
-            "морепродукты"
-          ],
+          "labels": ["НАРОДНОЕ", "морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -623,11 +515,7 @@
           "name": "Сет ЗАПЕЧЁННЫЙ",
           "price": 2600,
           "oldPrice": null,
-          "labels": [
-            "НАРОДНОЕ",
-            "курица",
-            "рыба"
-          ],
+          "labels": ["НАРОДНОЕ", "курица", "рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -640,11 +528,7 @@
           "name": "Сет ЖАРЕНЫЙ",
           "price": 2600,
           "oldPrice": null,
-          "labels": [
-            "НАРОДНОЕ",
-            "рыба",
-            "морепродукты"
-          ],
+          "labels": ["НАРОДНОЕ", "рыба", "морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -657,10 +541,7 @@
           "name": "Сет ШЕФСКИЙ ПОЛОВИНКИ",
           "price": 2600,
           "oldPrice": null,
-          "labels": [
-            "рыба",
-            "морепродукты"
-          ],
+          "labels": ["рыба", "морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -673,10 +554,7 @@
           "name": "Сет ШЕФСКИЙ",
           "price": 4300,
           "oldPrice": null,
-          "labels": [
-            "рыба",
-            "морепродукты"
-          ],
+          "labels": ["рыба", "морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -689,11 +567,7 @@
           "name": "Сет ФИЛАДЕЛЬФИЯ ПОЛОВИНКИ",
           "price": 2400,
           "oldPrice": null,
-          "labels": [
-            "НАРОДНОЕ",
-            "рыба",
-            "морепродукты"
-          ],
+          "labels": ["НАРОДНОЕ", "рыба", "морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -706,11 +580,7 @@
           "name": "Сет СУШИ",
           "price": 2100,
           "oldPrice": null,
-          "labels": [
-            "НАРОДНОЕ",
-            "рыба",
-            "морепродукты"
-          ],
+          "labels": ["НАРОДНОЕ", "рыба", "морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -729,11 +599,7 @@
           "name": "Том ям с морепродуктами (+рис отдельно)",
           "price": 890,
           "oldPrice": null,
-          "labels": [
-            "НАРОДНОЕ",
-            "рыба",
-            "морепродукты"
-          ],
+          "labels": ["НАРОДНОЕ", "рыба", "морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -746,11 +612,7 @@
           "name": "Половинка том яма с морепродуктами (+рис отдельно)",
           "price": 530,
           "oldPrice": null,
-          "labels": [
-            "НАРОДНОЕ",
-            "рыба",
-            "морепродукты"
-          ],
+          "labels": ["НАРОДНОЕ", "рыба", "морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -763,9 +625,7 @@
           "name": "Том ям с курицей (+рис отдельно)",
           "price": 650,
           "oldPrice": null,
-          "labels": [
-            "курица"
-          ],
+          "labels": ["курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -778,9 +638,7 @@
           "name": "Половинка том яма с курицей (+рис отдельно)",
           "price": 400,
           "oldPrice": null,
-          "labels": [
-            "курица"
-          ],
+          "labels": ["курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -793,10 +651,7 @@
           "name": "Том кха с морепродуктами (+рис отдельно)",
           "price": 890,
           "oldPrice": null,
-          "labels": [
-            "рыба",
-            "морепродукты"
-          ],
+          "labels": ["рыба", "морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -809,10 +664,7 @@
           "name": "Половинка том кха с морепродуктами (+рис отдельно)",
           "price": 530,
           "oldPrice": null,
-          "labels": [
-            "рыба",
-            "морепродукты"
-          ],
+          "labels": ["рыба", "морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -825,9 +677,7 @@
           "name": "Том кха с курицей (+рис отдельно)",
           "price": 680,
           "oldPrice": null,
-          "labels": [
-            "курица"
-          ],
+          "labels": ["курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -840,9 +690,7 @@
           "name": "Половинка том кха с курицей (+рис отдельно)",
           "price": 400,
           "oldPrice": null,
-          "labels": [
-            "курица"
-          ],
+          "labels": ["курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -855,9 +703,7 @@
           "name": "Фо бо с говядиной",
           "price": 820,
           "oldPrice": null,
-          "labels": [
-            "говядина"
-          ],
+          "labels": ["говядина"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -870,9 +716,7 @@
           "name": "Половинка фо бо с говядиной",
           "price": 460,
           "oldPrice": null,
-          "labels": [
-            "говядина"
-          ],
+          "labels": ["говядина"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -885,10 +729,7 @@
           "name": "Том ям рамен с морепродуктами",
           "price": 870,
           "oldPrice": null,
-          "labels": [
-            "НАРОДНОЕ",
-            "морепродукты"
-          ],
+          "labels": ["НАРОДНОЕ", "морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -901,10 +742,7 @@
           "name": "Половинка том ям рамена с морепродуктами",
           "price": 560,
           "oldPrice": null,
-          "labels": [
-            "НАРОДНОЕ",
-            "морепродукты"
-          ],
+          "labels": ["НАРОДНОЕ", "морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -917,9 +755,7 @@
           "name": "Том ям рамен с курицей",
           "price": 720,
           "oldPrice": null,
-          "labels": [
-            "курица"
-          ],
+          "labels": ["курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -932,9 +768,7 @@
           "name": "Половинка том ям рамена с курицей",
           "price": 450,
           "oldPrice": null,
-          "labels": [
-            "курица"
-          ],
+          "labels": ["курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -947,10 +781,7 @@
           "name": "Карри рамен с морепродуктами",
           "price": 870,
           "oldPrice": null,
-          "labels": [
-            "рыба",
-            "морепродукты"
-          ],
+          "labels": ["рыба", "морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -963,10 +794,7 @@
           "name": "Половинка карри рамена с морепродуктами",
           "price": 570,
           "oldPrice": null,
-          "labels": [
-            "рыба",
-            "морепродукты"
-          ],
+          "labels": ["рыба", "морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -979,9 +807,7 @@
           "name": "Карри рамен с курицей",
           "price": 720,
           "oldPrice": null,
-          "labels": [
-            "курица"
-          ],
+          "labels": ["курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -994,9 +820,7 @@
           "name": "Половинка карри рамена с курицей",
           "price": 430,
           "oldPrice": null,
-          "labels": [
-            "курица"
-          ],
+          "labels": ["курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1009,10 +833,7 @@
           "name": "Том рой рамен с морепродуктами",
           "price": 890,
           "oldPrice": null,
-          "labels": [
-            "рыба",
-            "морепродукты"
-          ],
+          "labels": ["рыба", "морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1025,10 +846,7 @@
           "name": "Половинка том рой рамена с морепродуктами",
           "price": 560,
           "oldPrice": null,
-          "labels": [
-            "рыба",
-            "морепродукты"
-          ],
+          "labels": ["рыба", "морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1041,9 +859,7 @@
           "name": "Том рой рамен с курицей",
           "price": 620,
           "oldPrice": null,
-          "labels": [
-            "курица"
-          ],
+          "labels": ["курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1056,9 +872,7 @@
           "name": "Половинка том рой рамена с курицей",
           "price": 370,
           "oldPrice": null,
-          "labels": [
-            "курица"
-          ],
+          "labels": ["курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1071,9 +885,7 @@
           "name": "Сёю рамен со свиным рулетом",
           "price": 700,
           "oldPrice": null,
-          "labels": [
-            "свинина"
-          ],
+          "labels": ["свинина"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1086,9 +898,7 @@
           "name": "Половинка сёю рамена со свиным рулетом",
           "price": 420,
           "oldPrice": null,
-          "labels": [
-            "свинина"
-          ],
+          "labels": ["свинина"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1101,9 +911,7 @@
           "name": "Сёю рамен с курицей",
           "price": 700,
           "oldPrice": null,
-          "labels": [
-            "курица"
-          ],
+          "labels": ["курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1116,9 +924,7 @@
           "name": "Половинка сёю рамена с курицей",
           "price": 420,
           "oldPrice": null,
-          "labels": [
-            "курица"
-          ],
+          "labels": ["курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1131,10 +937,7 @@
           "name": "Сырный рамен с курицей и беконом",
           "price": 840,
           "oldPrice": null,
-          "labels": [
-            "курица",
-            "свинина"
-          ],
+          "labels": ["курица", "свинина"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1147,10 +950,7 @@
           "name": "Половинка сырного рамена с курицей и беконом",
           "price": 560,
           "oldPrice": null,
-          "labels": [
-            "курица",
-            "свинина"
-          ],
+          "labels": ["курица", "свинина"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1163,10 +963,7 @@
           "name": "Сливочный рамен с лососем",
           "price": 770,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА",
-            "рыба"
-          ],
+          "labels": ["НОВИНКА", "рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1179,10 +976,7 @@
           "name": "Половинка сливочного рамена с лососем",
           "price": 440,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА",
-            "рыба"
-          ],
+          "labels": ["НОВИНКА", "рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1195,10 +989,7 @@
           "name": "Том ям с морепродуктами В СТАКАНЕ (САМОВЫВОЗ)",
           "price": 600,
           "oldPrice": null,
-          "labels": [
-            "рыба",
-            "морепродукты"
-          ],
+          "labels": ["рыба", "морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1211,9 +1002,7 @@
           "name": "Том ям со свининой В СТАКАНЕ (САМОВЫВОЗ)",
           "price": 590,
           "oldPrice": null,
-          "labels": [
-            "свинина"
-          ],
+          "labels": ["свинина"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1226,9 +1015,7 @@
           "name": "Том ям с курицей В СТАКАНЕ (САМОВЫВОЗ)",
           "price": 470,
           "oldPrice": null,
-          "labels": [
-            "курица"
-          ],
+          "labels": ["курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1247,10 +1034,7 @@
           "name": "Поке с лососем и тунцом (в основе рис)",
           "price": 660,
           "oldPrice": null,
-          "labels": [
-            "НАРОДНОЕ",
-            "рыба"
-          ],
+          "labels": ["НАРОДНОЕ", "рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1263,10 +1047,7 @@
           "name": "Поке с лососем и тунцом (в основе листья салата)",
           "price": 660,
           "oldPrice": null,
-          "labels": [
-            "НАРОДНОЕ",
-            "рыба"
-          ],
+          "labels": ["НАРОДНОЕ", "рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1279,9 +1060,7 @@
           "name": "Поке с креветками (в основе рис)",
           "price": 660,
           "oldPrice": null,
-          "labels": [
-            "морепродукты"
-          ],
+          "labels": ["морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1294,9 +1073,7 @@
           "name": "Поке с креветками (в основе листья салата)",
           "price": 660,
           "oldPrice": null,
-          "labels": [
-            "морепродукты"
-          ],
+          "labels": ["морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1309,9 +1086,7 @@
           "name": "Поке с угрём (в основе рис)",
           "price": 650,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1324,9 +1099,7 @@
           "name": "Поке с угрём (в основе листья салата)",
           "price": 650,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1339,9 +1112,7 @@
           "name": "Поке с курицей (в основе рис)",
           "price": 460,
           "oldPrice": null,
-          "labels": [
-            "курица"
-          ],
+          "labels": ["курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1354,9 +1125,7 @@
           "name": "Поке с курицей (в основе листья салата)",
           "price": 460,
           "oldPrice": null,
-          "labels": [
-            "курица"
-          ],
+          "labels": ["курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1369,9 +1138,7 @@
           "name": "Поке с копчёным тофу (в основе рис)",
           "price": 550,
           "oldPrice": null,
-          "labels": [
-            "вегетарианское"
-          ],
+          "labels": ["вегетарианское"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1384,9 +1151,7 @@
           "name": "Поке с копчёным тофу (в основе листья салата)",
           "price": 550,
           "oldPrice": null,
-          "labels": [
-            "вегетарианское"
-          ],
+          "labels": ["вегетарианское"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1405,10 +1170,7 @@
           "name": "Дань дань лапша с уткой",
           "price": 590,
           "oldPrice": null,
-          "labels": [
-            "острое",
-            "утка"
-          ],
+          "labels": ["острое", "утка"],
           "allergens": [],
           "spiceLevel": 1,
           "available": true,
@@ -1421,9 +1183,7 @@
           "name": "Том рой лапша с курицей карааге",
           "price": 470,
           "oldPrice": null,
-          "labels": [
-            "курица"
-          ],
+          "labels": ["курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1436,10 +1196,7 @@
           "name": "Том ям лапша с морепродуктами",
           "price": 770,
           "oldPrice": null,
-          "labels": [
-            "НАРОДНОЕ",
-            "морепродукты"
-          ],
+          "labels": ["НАРОДНОЕ", "морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1452,10 +1209,7 @@
           "name": "Сырная лапша с курицей и беконом",
           "price": 670,
           "oldPrice": null,
-          "labels": [
-            "курица",
-            "свинина"
-          ],
+          "labels": ["курица", "свинина"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1468,10 +1222,7 @@
           "name": "Пад тай лапша с креветками и кальмарами",
           "price": 720,
           "oldPrice": null,
-          "labels": [
-            "НАРОДНОЕ",
-            "морепродукты"
-          ],
+          "labels": ["НАРОДНОЕ", "морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1484,10 +1235,7 @@
           "name": "Пад тай лапша с курицей",
           "price": 620,
           "oldPrice": null,
-          "labels": [
-            "НАРОДНОЕ",
-            "курица"
-          ],
+          "labels": ["НАРОДНОЕ", "курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1500,9 +1248,7 @@
           "name": "Кимчи рис с беконом и жареным яйцом",
           "price": 470,
           "oldPrice": null,
-          "labels": [
-            "свинина"
-          ],
+          "labels": ["свинина"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1515,10 +1261,7 @@
           "name": "Чесночный рис с креветками и кальмаром",
           "price": 600,
           "oldPrice": null,
-          "labels": [
-            "НАРОДНОЕ",
-            "морепродукты"
-          ],
+          "labels": ["НАРОДНОЕ", "морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1531,10 +1274,7 @@
           "name": "Чесночный рис с курицей",
           "price": 440,
           "oldPrice": null,
-          "labels": [
-            "НАРОДНОЕ",
-            "курица"
-          ],
+          "labels": ["НАРОДНОЕ", "курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1547,9 +1287,7 @@
           "name": "Карри рис с креветками",
           "price": 720,
           "oldPrice": null,
-          "labels": [
-            "морепродукты"
-          ],
+          "labels": ["морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1562,9 +1300,7 @@
           "name": "Карри рис с курицей",
           "price": 590,
           "oldPrice": null,
-          "labels": [
-            "курица"
-          ],
+          "labels": ["курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1583,9 +1319,7 @@
           "name": "Огурцы по-сычуаньски",
           "price": 240,
           "oldPrice": null,
-          "labels": [
-            "вегетарианское"
-          ],
+          "labels": ["вегетарианское"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1598,10 +1332,7 @@
           "name": "Капуста кимчи",
           "price": 360,
           "oldPrice": null,
-          "labels": [
-            "острое",
-            "вегетарианское"
-          ],
+          "labels": ["острое", "вегетарианское"],
           "allergens": [],
           "spiceLevel": 1,
           "available": true,
@@ -1614,10 +1345,7 @@
           "name": "Маринованный редис",
           "price": 240,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА",
-            "вегетарианское"
-          ],
+          "labels": ["НОВИНКА", "вегетарианское"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1630,10 +1358,7 @@
           "name": "Сет стартеров",
           "price": 530,
           "oldPrice": null,
-          "labels": [
-            "НАРОДНОЕ",
-            "вегетарианское"
-          ],
+          "labels": ["НАРОДНОЕ", "вегетарианское"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1646,10 +1371,7 @@
           "name": "Утка по-сычуаньски",
           "price": 650,
           "oldPrice": null,
-          "labels": [
-            "НАРОДНОЕ",
-            "утка"
-          ],
+          "labels": ["НАРОДНОЕ", "утка"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1662,10 +1384,7 @@
           "name": "Икуджи пончик с уткой",
           "price": 490,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА",
-            "утка"
-          ],
+          "labels": ["НОВИНКА", "утка"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1678,9 +1397,7 @@
           "name": "Цитрусовый цыплёнок по-китайски с фри",
           "price": 600,
           "oldPrice": null,
-          "labels": [
-            "курица"
-          ],
+          "labels": ["курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1693,9 +1410,7 @@
           "name": "Баклажаны с томатами",
           "price": 390,
           "oldPrice": null,
-          "labels": [
-            "вегетарианское"
-          ],
+          "labels": ["вегетарианское"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1714,10 +1429,7 @@
           "name": "Дим самы с лососем и креветками",
           "price": 640,
           "oldPrice": null,
-          "labels": [
-            "НАРОДНОЕ",
-            "рыба"
-          ],
+          "labels": ["НАРОДНОЕ", "рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1730,9 +1442,7 @@
           "name": "Дим самы с уткой и шиитаке",
           "price": 620,
           "oldPrice": null,
-          "labels": [
-            "утка"
-          ],
+          "labels": ["утка"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1745,9 +1455,7 @@
           "name": "Дим самы с курицей и сыром",
           "price": 480,
           "oldPrice": null,
-          "labels": [
-            "курица"
-          ],
+          "labels": ["курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1760,10 +1468,7 @@
           "name": "Дим самы со свининой и говядиной",
           "price": 400,
           "oldPrice": null,
-          "labels": [
-            "говядина",
-            "свинина"
-          ],
+          "labels": ["говядина", "свинина"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1782,9 +1487,7 @@
           "name": "Онигири с лососем",
           "price": 400,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1797,9 +1500,7 @@
           "name": "Онигири с тунцом",
           "price": 310,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1812,9 +1513,7 @@
           "name": "Онигири с угрём",
           "price": 390,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1827,9 +1526,7 @@
           "name": "Онигири с креветками",
           "price": 330,
           "oldPrice": null,
-          "labels": [
-            "морепродукты"
-          ],
+          "labels": ["морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1842,9 +1539,7 @@
           "name": "Роллы с лососем том кха и клубникой 4шт",
           "price": 670,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1857,9 +1552,7 @@
           "name": "Роллы с лососем том кха и клубникой 8шт",
           "price": 1190,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1872,9 +1565,7 @@
           "name": "Роллы с татаки из тунца и горгонзоллой 4шт",
           "price": 650,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1887,9 +1578,7 @@
           "name": "Роллы с татаки из тунца и горгонзоллой 8шт",
           "price": 1150,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1902,9 +1591,7 @@
           "name": "Роллы с угрём и манго 4шт",
           "price": 690,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1917,9 +1604,7 @@
           "name": "Роллы с угрём и манго 8шт",
           "price": 1250,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1932,10 +1617,7 @@
           "name": "Роллы с креветками юдзу и лососем 4шт",
           "price": 750,
           "oldPrice": null,
-          "labels": [
-            "рыба",
-            "морепродукты"
-          ],
+          "labels": ["рыба", "морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1948,10 +1630,7 @@
           "name": "Роллы с креветками юдзу и лососем 8шт",
           "price": 1250,
           "oldPrice": null,
-          "labels": [
-            "рыба",
-            "морепродукты"
-          ],
+          "labels": ["рыба", "морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1964,9 +1643,7 @@
           "name": "Филадельфия с лососем 4шт",
           "price": 750,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1979,9 +1656,7 @@
           "name": "Филадельфия с лососем 8шт",
           "price": 1350,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -1994,9 +1669,7 @@
           "name": "Филадельфия с тунцом 4шт",
           "price": 610,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2009,9 +1682,7 @@
           "name": "Филадельфия с тунцом 8шт",
           "price": 1100,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2024,9 +1695,7 @@
           "name": "Филадельфия с угрём 4шт",
           "price": 690,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2039,9 +1708,7 @@
           "name": "Филадельфия с угрём 8шт",
           "price": 1170,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2054,9 +1721,7 @@
           "name": "Филадельфия с креветками 4шт",
           "price": 590,
           "oldPrice": null,
-          "labels": [
-            "морепродукты"
-          ],
+          "labels": ["морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2069,9 +1734,7 @@
           "name": "Филадельфия с креветками 8шт",
           "price": 930,
           "oldPrice": null,
-          "labels": [
-            "морепродукты"
-          ],
+          "labels": ["морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2084,10 +1747,7 @@
           "name": "Сендвич ролл с лососем",
           "price": 900,
           "oldPrice": null,
-          "labels": [
-            "НАРОДНОЕ",
-            "рыба"
-          ],
+          "labels": ["НАРОДНОЕ", "рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2100,10 +1760,7 @@
           "name": "Суши хот дог с лососем и тунцом",
           "price": 790,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА",
-            "рыба"
-          ],
+          "labels": ["НОВИНКА", "рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2116,9 +1773,7 @@
           "name": "Жареные роллы с лососем",
           "price": 700,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2131,9 +1786,7 @@
           "name": "Жареные роллы с тунцом",
           "price": 720,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2146,9 +1799,7 @@
           "name": "Жареные роллы с угрём",
           "price": 750,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2161,9 +1812,7 @@
           "name": "Жареные роллы с креветками",
           "price": 700,
           "oldPrice": null,
-          "labels": [
-            "морепродукты"
-          ],
+          "labels": ["морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2176,9 +1825,7 @@
           "name": "Жареные роллы со снежным крабом",
           "price": 540,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2191,9 +1838,7 @@
           "name": "Темпура роллы с лососем том ям",
           "price": 850,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2206,9 +1851,7 @@
           "name": "Запечённые роллы с лососем",
           "price": 890,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2221,9 +1864,7 @@
           "name": "Запечённые роллы с тунцом",
           "price": 950,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2236,9 +1877,7 @@
           "name": "Запечённые роллы с угрём",
           "price": 930,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2251,9 +1890,7 @@
           "name": "Запечённые роллы с креветками",
           "price": 900,
           "oldPrice": null,
-          "labels": [
-            "морепродукты"
-          ],
+          "labels": ["морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2266,9 +1903,7 @@
           "name": "Запечённые роллы со снежным крабом",
           "price": 600,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2281,9 +1916,7 @@
           "name": "Запечённые роллы с курицей",
           "price": 580,
           "oldPrice": null,
-          "labels": [
-            "курица"
-          ],
+          "labels": ["курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2296,9 +1929,7 @@
           "name": "Маки с лососем",
           "price": 550,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2311,9 +1942,7 @@
           "name": "Маки с тунцом",
           "price": 480,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2326,9 +1955,7 @@
           "name": "Маки с угрём",
           "price": 570,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2341,9 +1968,7 @@
           "name": "Маки с креветками",
           "price": 490,
           "oldPrice": null,
-          "labels": [
-            "морепродукты"
-          ],
+          "labels": ["морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2356,9 +1981,7 @@
           "name": "Маки с огурцом",
           "price": 330,
           "oldPrice": null,
-          "labels": [
-            "вегетарианское"
-          ],
+          "labels": ["вегетарианское"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2371,9 +1994,7 @@
           "name": "Суши с лососем",
           "price": 250,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2386,9 +2007,7 @@
           "name": "Суши с тунцом",
           "price": 200,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2401,9 +2020,7 @@
           "name": "Суши с угрём",
           "price": 250,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2416,9 +2033,7 @@
           "name": "Суши с креветкой",
           "price": 200,
           "oldPrice": null,
-          "labels": [
-            "морепродукты"
-          ],
+          "labels": ["морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2431,9 +2046,7 @@
           "name": "Суши с кальмаром",
           "price": 160,
           "oldPrice": null,
-          "labels": [
-            "морепродукты"
-          ],
+          "labels": ["морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2459,9 +2072,7 @@
           "name": "Гункан с лососем",
           "price": 320,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2474,10 +2085,7 @@
           "name": "Гункан с тунцом",
           "price": 290,
           "oldPrice": null,
-          "labels": [
-            "острое",
-            "рыба"
-          ],
+          "labels": ["острое", "рыба"],
           "allergens": [],
           "spiceLevel": 1,
           "available": true,
@@ -2490,9 +2098,7 @@
           "name": "Гункан с угрём",
           "price": 310,
           "oldPrice": null,
-          "labels": [
-            "рыба"
-          ],
+          "labels": ["рыба"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2505,9 +2111,7 @@
           "name": "Гункан с креветками",
           "price": 230,
           "oldPrice": null,
-          "labels": [
-            "морепродукты"
-          ],
+          "labels": ["морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2520,9 +2124,7 @@
           "name": "Гункан с кальмаром",
           "price": 250,
           "oldPrice": null,
-          "labels": [
-            "морепродукты"
-          ],
+          "labels": ["морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2535,9 +2137,7 @@
           "name": "Гункан с чукой",
           "price": 140,
           "oldPrice": null,
-          "labels": [
-            "вегетарианское"
-          ],
+          "labels": ["вегетарианское"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2556,9 +2156,7 @@
           "name": "Моти с клубникой",
           "price": 260,
           "oldPrice": null,
-          "labels": [
-            "НАРОДНОЕ"
-          ],
+          "labels": ["НАРОДНОЕ"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2571,9 +2169,7 @@
           "name": "Моти со смородиной",
           "price": 260,
           "oldPrice": null,
-          "labels": [
-            "НАРОДНОЕ"
-          ],
+          "labels": ["НАРОДНОЕ"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2586,9 +2182,7 @@
           "name": "Моти с фисташкой",
           "price": 260,
           "oldPrice": null,
-          "labels": [
-            "НАРОДНОЕ"
-          ],
+          "labels": ["НАРОДНОЕ"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2601,9 +2195,7 @@
           "name": "Сет моти",
           "price": 730,
           "oldPrice": null,
-          "labels": [
-            "НАРОДНОЕ"
-          ],
+          "labels": ["НАРОДНОЕ"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2629,9 +2221,7 @@
           "name": "Домашний чизкейк с манго",
           "price": 350,
           "oldPrice": null,
-          "labels": [
-            "НАРОДНОЕ"
-          ],
+          "labels": ["НАРОДНОЕ"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2644,9 +2234,7 @@
           "name": "Домашний чизкейк с клубникой",
           "price": 390,
           "oldPrice": null,
-          "labels": [
-            "НАРОДНОЕ"
-          ],
+          "labels": ["НАРОДНОЕ"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2701,9 +2289,7 @@
           "name": "Пиво безалко Bud",
           "price": 200,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА"
-          ],
+          "labels": ["НОВИНКА"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2716,9 +2302,7 @@
           "name": "Лимонад MEDOVARUS черешня",
           "price": 300,
           "oldPrice": null,
-          "labels": [
-            "НАРОДНОЕ"
-          ],
+          "labels": ["НАРОДНОЕ"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2756,9 +2340,7 @@
           "name": "Лимонад MEDOVARUS имбирный",
           "price": 300,
           "oldPrice": null,
-          "labels": [
-            "НАРОДНОЕ"
-          ],
+          "labels": ["НАРОДНОЕ"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2790,9 +2372,7 @@
           "name": "Суп с курицей и лапшой",
           "price": 280,
           "oldPrice": null,
-          "labels": [
-            "курица"
-          ],
+          "labels": ["курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2805,9 +2385,7 @@
           "name": "Куриная котлета с пюре",
           "price": 310,
           "oldPrice": null,
-          "labels": [
-            "курица"
-          ],
+          "labels": ["курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2820,9 +2398,7 @@
           "name": "Наггетсы с картошкой фри",
           "price": 380,
           "oldPrice": null,
-          "labels": [
-            "курица"
-          ],
+          "labels": ["курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2917,9 +2493,7 @@
           "name": "Острый перец",
           "price": 70,
           "oldPrice": null,
-          "labels": [
-            "острое"
-          ],
+          "labels": ["острое"],
           "allergens": [],
           "spiceLevel": 1,
           "available": true,
@@ -2969,9 +2543,7 @@
           "name": "Соус том ям 100мл",
           "price": 240,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА"
-          ],
+          "labels": ["НОВИНКА"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -2996,9 +2568,7 @@
           "name": "Соус кинто 100мл",
           "price": 350,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА"
-          ],
+          "labels": ["НОВИНКА"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -3023,9 +2593,7 @@
           "name": "Соус том кха 100мл",
           "price": 240,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА"
-          ],
+          "labels": ["НОВИНКА"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -3037,9 +2605,7 @@
           "name": "Соус сычуаньский 100мл",
           "price": 200,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА"
-          ],
+          "labels": ["НОВИНКА"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -3051,9 +2617,7 @@
           "name": "Соус шрирача",
           "price": 40,
           "oldPrice": null,
-          "labels": [
-            "острое"
-          ],
+          "labels": ["острое"],
           "allergens": [],
           "spiceLevel": 1,
           "available": true,
@@ -3065,9 +2629,7 @@
           "name": "Соус пад тай 100мл",
           "price": 200,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА"
-          ],
+          "labels": ["НОВИНКА"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -3079,9 +2641,7 @@
           "name": "Соус кимчи 100мл",
           "price": 200,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА"
-          ],
+          "labels": ["НОВИНКА"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -3093,9 +2653,7 @@
           "name": "Сделайте блюдо острее",
           "price": 70,
           "oldPrice": null,
-          "labels": [
-            "острое"
-          ],
+          "labels": ["острое"],
           "allergens": [],
           "spiceLevel": 1,
           "available": true,
@@ -3156,9 +2714,7 @@
           "name": "Лакомство для кошки",
           "price": 50,
           "oldPrice": null,
-          "labels": [
-            "ДЛЯ ЧЕТВЕРОНОГИХ"
-          ],
+          "labels": ["ДЛЯ ЧЕТВЕРОНОГИХ"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -3171,9 +2727,7 @@
           "name": "Лакомство для собаки",
           "price": 50,
           "oldPrice": null,
-          "labels": [
-            "ДЛЯ ЧЕТВЕРОНОГИХ"
-          ],
+          "labels": ["ДЛЯ ЧЕТВЕРОНОГИХ"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -3192,10 +2746,7 @@
           "name": "Дим самы с лососем и креветками ЗАМОРОЖЕНЫЕ",
           "price": 930,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА",
-            "морепродукты"
-          ],
+          "labels": ["НОВИНКА", "морепродукты"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -3208,10 +2759,7 @@
           "name": "Дим самы с уткой и шиитаке ЗАМОРОЖЕНЫЕ",
           "price": 800,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА",
-            "утка"
-          ],
+          "labels": ["НОВИНКА", "утка"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -3224,10 +2772,7 @@
           "name": "Дим самы с курицей и сыром ЗАМОРОЖЕНЫЕ",
           "price": 560,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА",
-            "курица"
-          ],
+          "labels": ["НОВИНКА", "курица"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -3240,10 +2785,7 @@
           "name": "Дим самы со свининой и говядиной ЗАМОРОЖЕНЫЕ",
           "price": 380,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА",
-            "говядина"
-          ],
+          "labels": ["НОВИНКА", "говядина"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -3256,9 +2798,7 @@
           "name": "Лапша пшеничная тонкая",
           "price": 180,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА"
-          ],
+          "labels": ["НОВИНКА"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
@@ -3271,9 +2811,7 @@
           "name": "Лапша пшеничная широкая",
           "price": 180,
           "oldPrice": null,
-          "labels": [
-            "НОВИНКА"
-          ],
+          "labels": ["НОВИНКА"],
           "allergens": [],
           "spiceLevel": 0,
           "available": true,
